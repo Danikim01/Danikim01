@@ -11,7 +11,7 @@
 
 ---
 
-Backend developer at Nexus, studying Systems Engineering at **FIUBA (UBA)**. I build backend systems with a focus on distributed systems and Rust — with academic depth in low-level systems and blockchain protocols, working toward a career in blockchain engineering.
+Backend developer at Nexus, studying Systems Engineering at **FIUBA (UBA)**. I specialize in building, deploying, and maintaining full-stack web applications end to end — and I'm deepening my focus on backend systems, Rust, and blockchain protocols.
 
 ---
 
@@ -48,8 +48,8 @@ Backend developer at Nexus, studying Systems Engineering at **FIUBA (UBA)**. I b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Danikim01&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
-
 <img src="https://streak-stats.demolab.com/?user=Danikim01&theme=dark&hide_border=true" height="160" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danikim01&theme=dark" height="160" />
 
 </div>
