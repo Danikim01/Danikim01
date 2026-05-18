@@ -2,8 +2,7 @@
 
 # Daniel Kim
 
-**Backend Developer · Systems Programming · Blockchain**  
-*Ingeniería en Sistemas — FIUBA (UBA)*
+**Backend Developer at Nexus · Systems Engineering — FIUBA (UBA)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tomas-kim/)
 [![Email](https://img.shields.io/badge/danikim01lol%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danikim01lol@gmail.com)
@@ -12,9 +11,7 @@
 
 ---
 
-Full-stack developer at a consultancy, studying Systems Engineering at **FIUBA (UBA)**. My focus is backend: distributed systems, systems programming in Rust, and blockchain protocols.
-
-Currently building **MOLDA** — a SaaS for the Argentine clothing industry.
+Backend developer at Nexus, studying Systems Engineering at **FIUBA (UBA)**. I build backend systems with a focus on distributed systems and Rust — with academic depth in low-level systems and blockchain protocols, working toward a career in blockchain engineering.
 
 ---
 
@@ -51,6 +48,8 @@ Currently building **MOLDA** — a SaaS for the Argentine clothing industry.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danikim01&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danikim01&layout=compact&theme=dark&hide_border=true&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api?username=Danikim01&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
+
+<img src="https://streak-stats.demolab.com/?user=Danikim01&theme=dark&hide_border=true" height="160" />
 
 </div>
