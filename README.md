@@ -11,7 +11,7 @@
 
 ---
 
-Backend developer at Nexus, studying Systems Engineering at **FIUBA (UBA)**. I specialize in building, deploying, and maintaining full-stack web applications end to end — and I'm deepening my focus on backend systems, Rust, and blockchain protocols.
+Systems Engineer graduated from FIUBA. Currently building scalable exchange matching engines and Web3 infrastructure at Nexus Laboratories. Deepening my expertise in Rust, Python, and distributed consensus.
 
 ---
 
