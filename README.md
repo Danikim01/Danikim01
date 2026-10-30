@@ -11,7 +11,7 @@
 
 ---
 
-Systems Engineer graduated from FIUBA. Currently building scalable exchange matching engines and Web3 infrastructure at Nexus Laboratories. Deepening my expertise in Rust, Python, and distributed consensus.
+Systems Engineer graduated from FIUBA. Deepening my expertise in Rust, Python, and distributed consensus.
 
 ---
 
