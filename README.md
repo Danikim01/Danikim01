@@ -2,7 +2,7 @@
 
 # Daniel Kim
 
-**Backend Developer at Nexus · Systems Engineering — FIUBA (UBA)**
+**Software Developer · Systems Engineering — FIUBA (UBA)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tomas-kim/)
 [![Email](https://img.shields.io/badge/danikim01lol%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danikim01lol@gmail.com)
@@ -11,7 +11,7 @@
 
 ---
 
-Systems Engineer graduated from FIUBA. Deepening my expertise in Rust, Python, and distributed consensus.
+Software Engineer graduated from FIUBA. Deepening my expertise in Rust, Python, and distributed consensus.
 
 ---
 
